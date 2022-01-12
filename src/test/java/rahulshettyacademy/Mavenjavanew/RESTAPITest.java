@@ -15,7 +15,7 @@ public class RESTAPITest {
 	@Test
 	public void deleteTwitterTest() {
 		System.out.println("deleteTwittersafgdgd fgdsdfg");
-		
+		System.out.println("dfshdjfsdjdhfgshj");
 		System.out.println("new test case added");
 	}
 
