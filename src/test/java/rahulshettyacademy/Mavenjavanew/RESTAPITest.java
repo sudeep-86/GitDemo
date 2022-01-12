@@ -14,14 +14,14 @@ public class RESTAPITest {
 
 	@Test
 	public void deleteTwitterTest() {
-		System.out.println("deleteTwitter");
-		
+		System.out.println("deleteTwittersafgdgd fgdsdfg");
+		System.out.println("dfshdjfsdjdhfgshj");
 		System.out.println("new test case added");
 	}
 
 	@Test
 	public void createTwitterTest() {
 		System.out.println("createTwitter");
-		System.out.println("new");
+		System.out.println("new agknfkjdln");
 	}
 }
