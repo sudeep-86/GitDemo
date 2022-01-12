@@ -22,5 +22,6 @@ public class RESTAPITest {
 	@Test
 	public void createTwitterTest() {
 		System.out.println("createTwitter");
+		System.out.println("new");
 	}
 }
